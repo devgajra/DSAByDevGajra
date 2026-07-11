@@ -59,8 +59,8 @@ Every problem has its own dedicated folder.
 ```
 Problem Name
 │
-├── README.md
-├── README_HI.md
+├── README1.md // in english
+├── README2.md // in hinglish
 └── solution.cpp
 ```
 
@@ -74,11 +74,10 @@ Problem Name
 - Dry Run
 - Time Complexity
 - Space Complexity
-- Key Observations
 
 ### 🇮🇳 README_HI.md
 
-The complete explanation in **Hinglish**, making revision easier for Hindi-speaking learners.
+The complete explanation in **Hinglish** .
 
 ### 💻 solution.cpp
 
